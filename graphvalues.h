@@ -8,5 +8,4 @@
 struct graphvalues {
     int a, b, c;
 };
-
 #endif //FUNCTIONGRAPH_GRAPHVALUES_H

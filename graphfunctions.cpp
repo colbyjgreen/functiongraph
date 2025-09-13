@@ -11,7 +11,6 @@ void userinput() {
     quadraticfunction(quadratic);
 }
 
-
 void quadraticfunction(graphvalues quadratic) {
     int y[5];
     //quadratic formula for x=[1,5], named as y since it is the y value
