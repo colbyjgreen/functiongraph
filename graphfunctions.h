@@ -7,6 +7,7 @@
 #include "graphvalues.h"
 #include <iomanip>
 #include <iostream>
+
 void userinput();
 void graphinit(graphvalues quadratic, int y[], bool tripledigit);
 void quadraticfunction(graphvalues quadratic);
